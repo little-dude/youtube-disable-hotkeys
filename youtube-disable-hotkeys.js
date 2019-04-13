@@ -4,3 +4,5 @@ function youtube_disable_hotkeys() {
         hotkey_manager.parentNode.removeChild(hotkey_manager)
     }
 }
+
+youtube_disable_hotkeys()
